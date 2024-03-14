@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Sivaprasath12/Toaster-Library.svg)](https://jitpack.io/#Sivaprasath12/Toaster-Library)
+
 Add it in your root build.gradle at the end of repositories:
 
 	dependencyResolutionManagement {
